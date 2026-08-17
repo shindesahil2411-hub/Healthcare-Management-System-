@@ -1,4 +1,4 @@
-# Healthcare Management System Using AI
+# Healthcare Management System 
 
 ## 📌 Project Description
 
